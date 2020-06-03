@@ -1,0 +1,7 @@
+E:\study\3\IPZ\Labs_IPZ_Shtokalo\Lab3\Project\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+E:\study\3\IPZ\Labs_IPZ_Shtokalo\Lab3\Project\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+E:\study\3\IPZ\Labs_IPZ_Shtokalo\Lab3\Project\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+E:\study\3\IPZ\Labs_IPZ_Shtokalo\Lab3\Project\ServerApp\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+E:\study\3\IPZ\Labs_IPZ_Shtokalo\Lab3\Project\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+E:\study\3\IPZ\Labs_IPZ_Shtokalo\Lab3\Project\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+E:\study\3\IPZ\Labs_IPZ_Shtokalo\Lab3\Project\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
